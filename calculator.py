@@ -1,4 +1,5 @@
 """
+Git連携のテスト
 Calculator library containing basic math operations.
 """
 
